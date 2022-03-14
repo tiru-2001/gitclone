@@ -1,3 +1,4 @@
 # gitclone
 a website about g
-adding a fil
+adding a file
+adding html file
